@@ -1,4 +1,5 @@
 # 💫 About Me:
+---
 I'm a Computer Science student specializing in Cybersecurity, building intelligent and secure systems.<br><br>🔭 Developing AI-driven security tools & web apps<br>🌱 Exploring Machine Learning, Quantum Computing & Secure Systems<br>🤝 Open to collaborations & open-source projects<br>💡 ACM student chapter member | Fun fact: I break systems to secure them 😄
 
 
